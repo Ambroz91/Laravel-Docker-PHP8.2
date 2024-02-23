@@ -20,7 +20,7 @@ Build a simple laravel development environment with docker-compose. Compatible w
 1. Click [Use this template](https://github.com/ucan-lab/docker-laravel/generate)
 2. Git clone & change directory
 3. Execute the following command
-4. Before executing the last command, change your **DB_HOST** form **IP** to **DB**
+4. Before executing the last command, change your **DB_HOST** form **127.0.0.1** to **DB**
 ```bash
 $ task create-project
 
